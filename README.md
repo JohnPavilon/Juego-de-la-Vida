@@ -1,4 +1,4 @@
-# Juego de la Vida
+# El juego de la vida por John Conway
 
 # 1. Introducción
 
@@ -34,6 +34,10 @@ fallecen por aislamiento
 3. Nacimientos: cada casilla vacía, adyacente a exactamente tres cifras
 vecinas -tres, ni más ni menos- es casilla generatriz. Es decir, en la
 siguiente generación habrá de colocarse una ficha en esa casilla
+
+Es importante hacer notar que todos los natalicios y fallecimientos ocurren
+simultáneamente, y constituyen en su conjunto una generación en particular, al
+paso del tiempo t, también llamado tic del reloj.
 
 # 2. Ejecución del programa
 
@@ -85,8 +89,14 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
   <img src="https://user-images.githubusercontent.com/75518367/155264886-3f42fb4e-8b6f-4c92-84b2-9c9d4822f9e5.gif" alt="animated" />
 </p>
 
+# 3. Patrones "Pentóminos" interesantes 
 
-# 3. Información del contenido
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75518367/155420779-5d9ea1c0-ae94-469e-a533-fac00f45db61.gif" alt="animated" />
+</p>
+
+
+# 4. Información del contenido
 
 A continuación se mostrará la lista de elementos contenidos en Shamir-s-Secret-Sharing-Scheme junto a una somera descripción de los mismos:
 
@@ -94,3 +104,4 @@ Juego-de-la-Vida/
 
 1. README.md: Es el archivo que está leyendo en este momento
 2. game-of-life.py: Ejecuta una simulación del juego de la vida
+
