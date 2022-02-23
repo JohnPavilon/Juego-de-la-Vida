@@ -12,7 +12,6 @@ Se presenta un programa realizado en Python que emula el autómata celular desar
 
 <p align="center">
   En caso de querer "matar" a la celula, presione click derecho
-  <img src="https://user-images.githubusercontent.com/75518367/155408321-839f8d28-6151-462c-8056-b46a3f6b5818.gif" alt="animated" />
 </p>
 
 <p align="center">
@@ -21,7 +20,6 @@ Se presenta un programa realizado en Python que emula el autómata celular desar
 
 <p align="center">
   Una vez establecido la configuración inicial, para proceder a la siguiente generación presione la tecla Enter
-  <img src="https://user-images.githubusercontent.com/75518367/155263660-8eab2da0-f783-4f92-b1d6-d128ee6bdd6e.gif" alt="animated" />
 </p>
 
 
@@ -39,7 +37,6 @@ Se presenta un programa realizado en Python que emula el autómata celular desar
 
 <p align="center">
   En caso de querer reiniciar el juego, presione la tecla Backspace (Esta se localiza encima de la tecla Enter)
-  <img src="https://user-images.githubusercontent.com/75518367/155264886-3f42fb4e-8b6f-4c92-84b2-9c9d4822f9e5.gif" alt="animated" />
 </p>
 
 <p align="center">
