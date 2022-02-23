@@ -92,9 +92,8 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 # 3. Patrones "Pentóminos" interesantes 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75518367/155420779-5d9ea1c0-ae94-469e-a533-fac00f45db61.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/75518367/155421052-315738b9-4d84-4867-8641-22624860a260.gif" alt="animated" />
 </p>
-
 
 # 4. Información del contenido
 
