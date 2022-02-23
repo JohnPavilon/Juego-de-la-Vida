@@ -13,3 +13,6 @@ Se presenta un programa realizado en Python que emula el autómata celular desar
   <img src="https://user-images.githubusercontent.com/75518367/155263918-774b3642-8ab4-4ad3-b8b1-45e8d90c9f3e.gif" alt="animated" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75518367/155264441-619ff4ca-dda4-47e4-a402-27a188467a14.gif" alt="animated" />
+</p>
