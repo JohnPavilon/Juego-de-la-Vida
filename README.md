@@ -97,7 +97,7 @@ Con lo anterior realizado, usted verá que se iniciará el programa abriendo una
 
 # 4. Información del contenido
 
-A continuación se mostrará la lista de elementos contenidos en Shamir-s-Secret-Sharing-Scheme junto a una somera descripción de los mismos:
+A continuación se mostrará la lista de elementos contenidos en Juego-de-la-Vida/ junto a una somera descripción de los mismos:
 
 Juego-de-la-Vida/
 
